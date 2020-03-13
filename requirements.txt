@@ -1,0 +1,4 @@
+PyQt5==5.10.1
+PyQtChart==5.10.1
+rx==1.6.1
+tornado==5.0.1
